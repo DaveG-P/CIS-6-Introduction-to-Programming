@@ -4,4 +4,4 @@ Taken in spring  2021 at Berkeley City College instructed by Benjamin Allen PhD 
 Repo to store projects and tasks worked on.
 
 ## Table of Contents 
-First Program: Simple user input program 
+1 - First Program: A simple user input program 
