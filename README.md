@@ -6,4 +6,5 @@ Class taught using C++
 
 ## Table of Contents 
 1 - First Program: A simple user input program.    
-2- STARS: A program that prints a pattern of stars based on 2^n 
+2 - STARS: A program that prints a pattern of stars based on 2^n.     
+3 - Calculator: A program that directs a cashier how to give change.   
