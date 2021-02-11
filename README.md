@@ -8,3 +8,4 @@ Class taught using C++
 1 - First Program: A simple user input program.    
 2 - STARS: A program that accepts an integer from the user and then prints a diagram of stars from a function 2n.       
 3 - Calculator: A program that directs a cashier how to give change.   
+4 - Fancy Printer: A program that asks a users name adds hello and is surrounded by a box of stars.  
